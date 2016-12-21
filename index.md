@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About
+## About me
 
 I am PhD student at Laboratory CHArt - École Pratique des Hautes Études, PSL University.
 
