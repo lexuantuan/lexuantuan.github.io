@@ -5,6 +5,8 @@ layout: default
 
 ## About me
 
+<img class="profile-picture" src="profileimage.jpeg">
+
 - I am PhD student at Laboratory CHArt - École Pratique des Hautes Études, PSL University.
 
 ## Research interest
