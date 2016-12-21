@@ -5,16 +5,15 @@ layout: default
 
 ## About me
 
-###
-I am PhD student at Laboratory CHArt - École Pratique des Hautes Études, PSL University.
+- I am PhD student at Laboratory CHArt - École Pratique des Hautes Études, PSL University.
 
 ## Research interest
 
-###
-Complex System: Agent Based Modeling and Simulation
-Artificial Intelligent: Data Mining, Machine Learning (preference learning, classification, ranking)
-Database System: Fuzzy information; Query Representation and Proceessing
-Interactive Data Visualization
+### Complex System: 
+- Computational modeling and simulation; Statechart; Agent Based Models
+- Artificial Intelligent: Data Mining, Machine Learning (preference learning, classification, ranking, decision tree)
+- Database System: Fuzzy information; Query Representation and Proceessing
+- Interactive Data Visualization
 
 ## Publications
 
@@ -29,12 +28,18 @@ Interactive Data Visualization
 
 ## Training
 
-###
+### Courses
+-	Cours Modélisation EPHE 03/2014: Natural algorithm, HK model presentations
 -	[ISC-PIF] Formation au calcul distribué (Les formations du JEDI (Journées d’entraînements pour les Docteurs et les Ingénieurs)) 10/2015
+
+### Seminar
 - Modèles de la rationalité ( PARIS reasoning, bâtiment de France) 2015
 -	"MODELES DE LA RATIONALITE" (LUTIN - Living Lab;Cité des Sciences et de l’Industrie) 12/2014
--	Tutorial: Open Source Tools for S&T Data Analysis and Visualization (tuto à l’OCDE) 06/2014
--	Cours Modélisation EPHE 03/2014: Natural algorithm, HK model presentations
+
+### Tutorial
+- Open Source Tools for S&T Data Analysis and Visualization (tuto à l’OCDE) 06/2014
+
+
 
 
 
