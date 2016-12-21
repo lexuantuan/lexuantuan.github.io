@@ -5,7 +5,7 @@ layout: default
 
 ## About me
 
-<img class="profile-picture" src="profileimage.jpeg" width="48">
+<img class="profile-picture" style="float: right;" src="profileimage.jpeg" width="48">
 
 - I am PhD student at Laboratory CHArt - École Pratique des Hautes Études, PSL University.
 
