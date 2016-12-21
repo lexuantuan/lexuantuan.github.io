@@ -9,11 +9,14 @@ layout: default
 
 ## Research interest
 
-### Complex System: 
+### Complex System 
 - Computational modeling and simulation; Statechart; Agent Based Models
-- Artificial Intelligent: Data Mining, Machine Learning (preference learning, classification, ranking, decision tree)
-- Database System: Fuzzy information; Query Representation and Proceessing
-- Interactive Data Visualization
+### Artificial Intelligent
+- Data Mining, Machine Learning (preference learning, classification, ranking, decision tree)
+### Database System
+- Fuzzy information; Query Representation and Proceessing
+### Interactive Data Visualization
+- Django (Python); MongoDB; DC.js; D3.js; HTML5; Boostrap
 
 ## Publications
 
