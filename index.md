@@ -2,11 +2,16 @@
 layout: default
 ---
 
+
 ## About me
+
+###
 
 I am PhD student at Laboratory CHArt - École Pratique des Hautes Études, PSL University.
 
 ## Research interest
+
+###
 
 Complex System: Agent Based Modeling and Simulation
 
@@ -26,6 +31,8 @@ Database System:      Fuzzy information; Query Representation and Proceessing
 3. Xuan Tuan Le, “Classification and ranking with fuzzy decision tree”, The Second AVSE Annual Doctoral Workshop, Paris Dauphine University, October 2013
 
 ## Training
+
+###
 
 -	[ISC-PIF] Formation au calcul distribué (Les formations du JEDI (Journées d’entraînements pour les Docteurs et les Ingénieurs)) 10/2015
 
