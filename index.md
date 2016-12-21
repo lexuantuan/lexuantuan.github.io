@@ -12,6 +12,7 @@ Artificial Intelligent: Data Mining, Machine Learning (preference learning, clas
 Database System:      Fuzzy information; Query Representation and Proceessing
 
 ## Publications
+
 ### International conference papers
 1. X. T. Le, M. Bui, , and J. M. Cohen, “A computational paradigm for the simulation of complex epidemic disease”, in Proceedings of The Seventh International Symposium on Information and Communication Technology - SoICT 2016, ACM, Dec. 2016.
 2. X. T. Le and C. Marsala, “Ranking with fuzzy decision trees”, in Soft Computing and Pattern Recognition (SoCPaR), 2013 International Conference on Soft Computing and Pattern Recognition, pp. 292–297, IEEE, 2013.
